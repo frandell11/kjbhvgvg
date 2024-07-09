@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1720484823 source:c:\users\tatia\desktop\franco.cpp\juego dados con funciones\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1720484777 c:\users\tatia\desktop\franco.cpp\juego dados con funciones\funciones.h
+
+1720484911 source:c:\users\tatia\desktop\franco.cpp\juego dados con funciones\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1720485159 c:\users\tatia\desktop\franco.cpp\juego dados con funciones\menu.h
+
+1720484777 c:\users\tatia\desktop\franco.cpp\juego dados con funciones\juego.h
+
